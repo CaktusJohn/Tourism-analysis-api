@@ -8,21 +8,15 @@ def health():
     return {"status": "ok"}
 
 @app.route("/kpi", methods=["GET"])
-def get_kpi():
-    data = calculate_kpi()
-    return jsonify(data)
+def get_all():
+    return jsonify(calculate_kpi())
 
 @app.route("/kpi", methods=["POST"])
-def get_kpi_by_period():
-    body = request.get_json()
-
-    start_date = body.get("start_date")
-    end_date = body.get("end_date")
-
-    data = calculate_kpi(start_date=start_date, end_date=end_date)
-
-    return jsonify(data)
-
+def get_by_period():
+    data = request.get_json()
+    start = data.get("start_date")
+    end = data.get("end_date")
+    return jsonify(calculate_kpi(start, end))
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000, debug=True)
