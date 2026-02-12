@@ -1,0 +1,462 @@
+{
+    "total_visitors": 2511801,
+    "monthly_visitors": [
+        {
+            "month": "2021-01-01",
+            "visitors": 357146
+        },
+        {
+            "month": "2021-02-01",
+            "visitors": 330578
+        },
+        {
+            "month": "2021-03-01",
+            "visitors": 399004
+        },
+        {
+            "month": "2021-04-01",
+            "visitors": 386198
+        },
+        {
+            "month": "2021-05-01",
+            "visitors": 515151
+        },
+        {
+            "month": "2021-06-01",
+            "visitors": 523724
+        }
+    ],
+    "territorial_distribution": [
+        {
+            "home_country": "Россия",
+            "visitors": 2499576
+        },
+        {
+            "home_country": "Белоруссия",
+            "visitors": 1151
+        },
+        {
+            "home_country": "Таджикистан",
+            "visitors": 1093
+        },
+        {
+            "home_country": "Эстония",
+            "visitors": 832
+        },
+        {
+            "home_country": "Китай (Китайская Народная Республика)",
+            "visitors": 784
+        },
+        {
+            "home_country": "Узбекистан",
+            "visitors": 675
+        },
+        {
+            "home_country": "Турция",
+            "visitors": 644
+        },
+        {
+            "home_country": "Украина",
+            "visitors": 600
+        },
+        {
+            "home_country": "Германия",
+            "visitors": 570
+        },
+        {
+            "home_country": "Казахстан",
+            "visitors": 507
+        },
+        {
+            "home_country": "Литва",
+            "visitors": 497
+        },
+        {
+            "home_country": "Египет",
+            "visitors": 440
+        },
+        {
+            "home_country": "Азербайджан",
+            "visitors": 337
+        },
+        {
+            "home_country": "Киргизия",
+            "visitors": 331
+        },
+        {
+            "home_country": "Польша",
+            "visitors": 285
+        },
+        {
+            "home_country": "Испания",
+            "visitors": 272
+        },
+        {
+            "home_country": "США",
+            "visitors": 254
+        },
+        {
+            "home_country": "Израиль",
+            "visitors": 251
+        },
+        {
+            "home_country": "Чехия",
+            "visitors": 244
+        },
+        {
+            "home_country": "Франция",
+            "visitors": 228
+        },
+        {
+            "home_country": "ОАЭ",
+            "visitors": 217
+        },
+        {
+            "home_country": "Сербия",
+            "visitors": 205
+        },
+        {
+            "home_country": "Италия",
+            "visitors": 163
+        },
+        {
+            "home_country": "Латвия",
+            "visitors": 124
+        },
+        {
+            "home_country": "Швеция",
+            "visitors": 124
+        },
+        {
+            "home_country": "Армения",
+            "visitors": 123
+        },
+        {
+            "home_country": "Великобритания",
+            "visitors": 115
+        },
+        {
+            "home_country": "Финляндия",
+            "visitors": 113
+        },
+        {
+            "home_country": "Греция",
+            "visitors": 90
+        },
+        {
+            "home_country": "Швейцария",
+            "visitors": 81
+        },
+        {
+            "home_country": "Молдавия",
+            "visitors": 76
+        },
+        {
+            "home_country": "Австрия",
+            "visitors": 69
+        },
+        {
+            "home_country": "Венгрия",
+            "visitors": 58
+        },
+        {
+            "home_country": "Кипр",
+            "visitors": 52
+        },
+        {
+            "home_country": "Таиланд",
+            "visitors": 49
+        },
+        {
+            "home_country": "Нидерланды",
+            "visitors": 47
+        },
+        {
+            "home_country": "Болгария",
+            "visitors": 39
+        },
+        {
+            "home_country": "Дания",
+            "visitors": 34
+        },
+        {
+            "home_country": "Бельгия",
+            "visitors": 32
+        },
+        {
+            "home_country": "Марокко",
+            "visitors": 31
+        },
+        {
+            "home_country": "Норвегия",
+            "visitors": 30
+        },
+        {
+            "home_country": "Словакия",
+            "visitors": 26
+        },
+        {
+            "home_country": "Грузия",
+            "visitors": 26
+        },
+        {
+            "home_country": "Румыния",
+            "visitors": 20
+        },
+        {
+            "home_country": "Хорватия",
+            "visitors": 18
+        },
+        {
+            "home_country": "Иордания",
+            "visitors": 18
+        },
+        {
+            "home_country": "Черногория",
+            "visitors": 15
+        },
+        {
+            "home_country": "Ирландия",
+            "visitors": 12
+        },
+        {
+            "home_country": "Алжир",
+            "visitors": 12
+        },
+        {
+            "home_country": "Канада",
+            "visitors": 12
+        },
+        {
+            "home_country": "Саудовская Аравия",
+            "visitors": 11
+        },
+        {
+            "home_country": "Северная Македония",
+            "visitors": 11
+        },
+        {
+            "home_country": "Португалия",
+            "visitors": 11
+        },
+        {
+            "home_country": "Люксембург",
+            "visitors": 11
+        },
+        {
+            "home_country": "Индонезия",
+            "visitors": 11
+        },
+        {
+            "home_country": "Руанда",
+            "visitors": 10
+        },
+        {
+            "home_country": "Ирак",
+            "visitors": 10
+        },
+        {
+            "home_country": "Кувейт",
+            "visitors": 9
+        },
+        {
+            "home_country": "Босния и Герцеговина",
+            "visitors": 8
+        },
+        {
+            "home_country": "Албания",
+            "visitors": 8
+        },
+        {
+            "home_country": "Мексика",
+            "visitors": 8
+        },
+        {
+            "home_country": "Словения",
+            "visitors": 7
+        },
+        {
+            "home_country": "Сингапур",
+            "visitors": 7
+        },
+        {
+            "home_country": "Камбоджа",
+            "visitors": 7
+        },
+        {
+            "home_country": "Япония",
+            "visitors": 6
+        },
+        {
+            "home_country": "Пакистан",
+            "visitors": 6
+        },
+        {
+            "home_country": "Тунис",
+            "visitors": 6
+        },
+        {
+            "home_country": "Чили",
+            "visitors": 5
+        },
+        {
+            "home_country": "Оман",
+            "visitors": 5
+        },
+        {
+            "home_country": "Республика Конго",
+            "visitors": 4
+        },
+        {
+            "home_country": "Сенегал",
+            "visitors": 4
+        },
+        {
+            "home_country": "Новая Зеландия",
+            "visitors": 4
+        },
+        {
+            "home_country": "Кот-д’Ивуар",
+            "visitors": 4
+        },
+        {
+            "home_country": "Папуа — Новая Гвинея",
+            "visitors": 4
+        },
+        {
+            "home_country": "Гана",
+            "visitors": 3
+        },
+        {
+            "home_country": "Республика Корея",
+            "visitors": 3
+        },
+        {
+            "home_country": "Гонконг",
+            "visitors": 3
+        },
+        {
+            "home_country": "Исландия",
+            "visitors": 2
+        },
+        {
+            "home_country": "Мальта",
+            "visitors": 2
+        },
+        {
+            "home_country": "Малайзия",
+            "visitors": 2
+        },
+        {
+            "home_country": "Шри-Ланка",
+            "visitors": 2
+        },
+        {
+            "home_country": "Камерун",
+            "visitors": 2
+        },
+        {
+            "home_country": "ЮАР",
+            "visitors": 2
+        },
+        {
+            "home_country": "Гвинея",
+            "visitors": 1
+        }
+    ],
+    "demographic_distribution": [
+        {
+            "gender": "мужской",
+            "age_group": "от 25 до 34 лет",
+            "visitors": 304662
+        },
+        {
+            "gender": "женский",
+            "age_group": "свыше 64 лет",
+            "visitors": 258878
+        },
+        {
+            "gender": "женский",
+            "age_group": "от 25 до 34 лет",
+            "visitors": 252170
+        },
+        {
+            "gender": "мужской",
+            "age_group": "от 35 до 44 лет",
+            "visitors": 233282
+        },
+        {
+            "gender": "женский",
+            "age_group": "от 55 до 63 лет",
+            "visitors": 219653
+        },
+        {
+            "gender": "женский",
+            "age_group": "от 35 до 44 лет",
+            "visitors": 213373
+        },
+        {
+            "gender": "женский",
+            "age_group": "от 45 до 54 лет",
+            "visitors": 205399
+        },
+        {
+            "gender": "мужской",
+            "age_group": "от 45 до 54 лет",
+            "visitors": 191813
+        },
+        {
+            "gender": "мужской",
+            "age_group": "от 55 до 63 лет",
+            "visitors": 166464
+        },
+        {
+            "gender": "мужской",
+            "age_group": "от 18 до 24 лет",
+            "visitors": 144761
+        },
+        {
+            "gender": "женский",
+            "age_group": "от 18 до 24 лет",
+            "visitors": 120500
+        },
+        {
+            "gender": "мужской",
+            "age_group": "свыше 64 лет",
+            "visitors": 102760
+        },
+        {
+            "gender": "мужской",
+            "age_group": "до 18 лет",
+            "visitors": 42672
+        },
+        {
+            "gender": "женский",
+            "age_group": "до 18 лет",
+            "visitors": 39506
+        },
+        {
+            "gender": "NaN",
+            "age_group": "NaN",
+            "visitors": 15908
+        }
+    ],
+    "most_profitable_category": {
+        "goal": "Посещение друзей и родственников",
+        "visitors": 1211680,
+        "revenue": 13238.734728,
+        "avg_spent_per_person": 0.010925933190281262
+    },
+    "most_popular_category": {
+        "goal": "Посещение друзей и родственников",
+        "visitors": 1211680,
+        "revenue": 13238.734728,
+        "avg_spent_per_person": 0.010925933190281262
+    },
+    "average_tourist_profile": {
+        "top_gender": "женский",
+        "top_age_group": "от 25 до 34 лет",
+        "top_income_group": "до 30 тыс. руб.",
+        "top_goal": "Посещение друзей и родственников"
+    }
+}
